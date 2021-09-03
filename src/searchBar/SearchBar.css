@@ -1,0 +1,13 @@
+#searchbar {
+  width: 300rem;
+  height: 51rem;
+  font-size: 50rem;
+}
+@media screen and (max-width: 600px) {
+  #searchbar {
+    border: 2rem black solid;
+    width: 70%;
+    height: 51rem;
+    font-size: 50rem;
+  }
+}
